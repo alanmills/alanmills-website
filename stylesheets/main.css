@@ -1,0 +1,184 @@
+/* BODY
+----------------------------------------------------------*/
+*
+{
+    padding:0;
+    margin:auto;
+}
+
+body {
+    background-color: white;
+    max-width: 100%;
+    margin: 0;
+    font-size: .85em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #232323;
+}
+
+/* HEADINGS
+----------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em;
+    color: #0092FF;
+}
+
+h1 {
+    font-size: 2em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+h2 {
+    padding: 0 0 10px 0;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+h5, h6 {
+    font-size: 1em;
+}
+
+/* HTML5
+----------------------------------------------------------*/
+article{
+    margin-top: 1em;
+}
+
+/* LINKS
+----------------------------------------------------------*/
+a, a:link, a:visited, a:link, a img
+{
+    border: none;
+    text-decoration:none;
+    color:#0092FF;
+}
+
+/* HEADER
+----------------------------------------------------------*/
+header {
+    background-color: black;
+    margin: 0
+}
+
+header h2 {
+    padding: 0.5em;
+    text-align: center;
+}
+
+/* NAVIGATION BAR
+----------------------------------------------------------*/
+nav {
+    display: block;
+    overflow: hidden;
+    background-size: 100%;
+}
+
+nav ul {
+    background-color: #0092FF;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    transition: all 0.2s;
+}
+
+nav > ul > li > a {
+    color: white;
+    display: block;
+    line-height: 3em;
+    padding: 0 2em;
+    text-decoration: none;
+}
+
+nav > ul > li:hover {
+    background-color: ghostwhite;
+}
+
+nav > ul > li:hover > a {
+    color: black;
+}
+
+nav .selected {
+    background-color: #0092FF;
+    color: white;
+}
+
+
+footer a, nav a:link, nav a:visited, nav a:link, nav a img
+{
+    border: none;
+    text-decoration:none;
+    color:inherit;
+}
+/* INTRODUCTION
+----------------------------------------------------------*/
+#introduction {
+    background: black url('/media/banner.png') no-repeat center bottom;
+    height: 212px;
+}
+
+#introduction h1{
+    padding-top: 4em;
+    text-align: center;
+}
+
+#introduction h2{
+    padding-top: 7em;
+    text-align: center;
+}
+/* MAIN
+----------------------------------------------------------*/
+main {
+    padding: 2em;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
+    display: block;
+    margin: 5px;
+    overflow: hidden;
+    width: 90%;
+    align-self: center;
+}
+
+/* FOOTER
+----------------------------------------------------------*/
+
+footer
+{
+    padding: 1em;
+    vertical-align:baseline;
+}
+
+#footer_menu
+{
+    text-align: center;
+    vertical-align: bottom;
+}
+
+#footer_menu em
+{
+    color: #0092FF;
+}
+
+footer a, footer a:link, footer a:visited, footer a:link, footer a img
+{
+    border: none;
+    text-decoration:none;
+    color:inherit;
+}
+
+/* HOME PAGE
+----------------------------------------------------------*/
+#home_blog {
+    margin-top: 2em;
+}
