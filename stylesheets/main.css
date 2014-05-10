@@ -146,7 +146,7 @@ main {
     display: block;
     margin: 5px;
     overflow: hidden;
-    width: 90%;
+    width: 92%;
     align-self: center;
 }
 
@@ -181,4 +181,77 @@ footer a, footer a:link, footer a:visited, footer a:link, footer a img
 ----------------------------------------------------------*/
 #home_blog {
     margin-top: 2em;
+}
+
+#home_blog h2 {
+    color: black;
+    padding-bottom: 0;
+}
+
+/* BLOG
+----------------------------------------------------------*/
+#blog_posts {
+    width: 70%;
+    float: left;
+}
+
+article {
+    padding-bottom: 3em;
+}
+
+aside {
+    width: 25%;
+    float: right;
+    font-size: 0.9em;
+}
+
+aside h3 {
+    color: black;
+}
+
+#blog_posts_recent, #blog_posts_categories, #blog_posts_history{
+    padding-bottom: 1em;
+}
+
+#blog_subscribe {
+    padding-top: 0.5em;
+}
+
+.blog_post_summary {
+    width: 100%;
+}
+.blog_post_categories {
+    width: 70%;
+    float: left;
+    padding-top: 1em;
+    font-size: 0.9em;
+}
+
+.blog_post_posted_date {
+    width: 30%;
+    float: right;
+    padding-top: 1em;
+    font-size: 0.9em;
+    text-align: right;
+}
+
+/* BLOG POST
+----------------------------------------------------------*/
+#blog_posted_date {
+    width: 25%;
+    float: right;
+    text-align: right;
+    padding-top: 1em;
+    font-size: 0.9em;
+}
+
+#blog_meta_categories {
+    width: 70%;
+    float: left;
+    padding-top: 1em;
+    font-size: 0.9em;
+}
+
+#blog_body {
+    padding-top: 3em;
 }
