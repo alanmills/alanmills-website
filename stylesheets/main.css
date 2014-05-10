@@ -19,7 +19,7 @@ body {
 ----------------------------------------------------------*/
 h1, h2, h3, h4, h5, h6 {
     font-size: 1.5em;
-    color: #0092FF;
+    color: black;
 }
 
 h1 {
@@ -42,6 +42,12 @@ h4 {
 
 h5, h6 {
     font-size: 1em;
+}
+
+/* Unordered lists
+----------------------------------------------------------*/
+p {
+    padding-bottom: 1em;
 }
 
 /* Unordered lists
@@ -134,11 +140,13 @@ footer a, nav a:link, nav a:visited, nav a:link, nav a img
 }
 
 #introduction h1{
+    color: #0092FF;
     padding-top: 4em;
     text-align: center;
 }
 
 #introduction h2{
+    color: #0092FF;
     padding-top: 7em;
     text-align: center;
 }
@@ -190,7 +198,6 @@ footer a, footer a:link, footer a:visited, footer a:link, footer a img
 }
 
 #home_blog h2 {
-    color: black;
     padding-bottom: 0;
 }
 
@@ -209,10 +216,6 @@ aside {
     width: 25%;
     float: right;
     font-size: 0.9em;
-}
-
-aside h3 {
-    color: black;
 }
 
 #blog_posts_recent, #blog_posts_categories, #blog_posts_history{

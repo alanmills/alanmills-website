@@ -2,12 +2,19 @@
 <rss version="2.0">
     <channel>
         <title>Alan Mills</title>
-        <link>http://www.alanmills.info</link>
+        <link>http://alanmills.info</link>
         <description>Alan Mills - Manager, Architect, Coder, Blogger &amp; Speaker</description>
         <item>
-            <title>Building the alanmills.info website part 1</title>
-            <link>http://alanmills.info/blog/building-website-part1.html</link>
-            <description>Getting started building the new home for alanmills.info using Python and Google App Engine.</description>
+            <title>Building alanmills.info</title>
+            <link>http://alanmills.info/blog/2014/05/building-alanmills.info.html</link>
+            <description>Getting started building the new home for alanmills.info.</description>
+        </item>
+        <item>
+            <title>Goodbye Microsoft, hello MAMP</title>
+            <link>http://alanmills.info/blog/2014/05/goodbye-microsoft.html</link>
+            <description>After 22 years using and developing personal and professional solutions on the Microsoft
+                Windows stack. In the future I am only going to use the MAMP/LAMP stack for my personal projects.
+            </description>
         </item>
     </channel>
 </rss>
