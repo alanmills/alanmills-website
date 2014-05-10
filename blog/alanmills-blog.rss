@@ -7,13 +7,16 @@
         <item>
             <title>Building alanmills.info</title>
             <link>http://alanmills.info/blog/2014/05/building-alanmills.info.html</link>
-            <description>Getting started building the new home for alanmills.info.</description>
+            <description>Getting started building the new home for alanmills.info.
+                <a href="/blog/2014/05/building-alanmills.info.html"><b>read more...</b></a>
+            </description>
         </item>
         <item>
             <title>Goodbye Microsoft, hello MAMP</title>
             <link>http://alanmills.info/blog/2014/05/goodbye-microsoft.html</link>
             <description>After 22 years using and developing personal and professional solutions on the Microsoft
                 Windows stack. In the future I am only going to use the MAMP/LAMP stack for my personal projects.
+                <a href="/blog/2014/05/building-alanmills.info.html"><b>read more...</b></a>
             </description>
         </item>
     </channel>
