@@ -2,7 +2,7 @@ Unit testing the standard Node.js Hello World sample
 ====================================================
 Author: Alan Mills
 Date: 1 October 2015 12:07
-Tags: unit testing, TDD, nodejs, chai, sinon
+Tags: unit testing, TDD, nodejs, mocha, chai, sinon
 
 [The standard Node.js "hello world" example](https://nodejs.org/en/about/)
 ``` javascript
