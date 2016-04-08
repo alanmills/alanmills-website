@@ -1,8 +1,9 @@
 Git pulling a remote branch to local
 ====================================
-Author: Alan Mills
-Date: 28 November 2015 18:55
-Tags: Git
+**Author:** Alan Mills  
+**Date:** [28 November 2015 18:55](/blog/history/2015-11.md)  
+**Tags:** [Git](/blog/categories/git.md)
+
 
 ``` bash
 $ git fetch

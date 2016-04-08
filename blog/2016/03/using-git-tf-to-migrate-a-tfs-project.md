@@ -1,8 +1,9 @@
 Using Git-TF to migrate a TFS project using Team Foundation Version Control
 ===========================================================================
-Author: Alan Mills
-Date: 02 March 2016 15:49
-Tags: TFS, Git, Git-TF, VSTS
+**Author:** Alan Mills  
+**Date:** [02 March 2016 15:49](/blog/history/2016-03.md)  
+**Tags:** [Team Foundation Server 2013](/blog/categories/team-foundation-server-2013.md), [Git for Windows](/blog/categories/git-for-windows.md)
+
 
 Steps
 

@@ -1,5 +1,9 @@
 Integration testing the standard Node.js Hello World sample
 ===========================================================
+**Author:** Alan Mills  
+**Date:** [3 October 2015 18:29](/blog/history/2015-10.md)  
+**Tags:** [Integration testing](/blog/categories/integration-testing.md), [Test Driven Development](/blog/categories/test-driven-development.md), [Node.js](/blog/categories/node-js.md), [Mocha](/blog/categories/mocha.md)
+
 Author: Alan Mills
 Date: 3 October 2015 18:29
 Tags: integration testing, TDD, nodejs, mocha

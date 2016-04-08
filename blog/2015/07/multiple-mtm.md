@@ -1,8 +1,9 @@
 Open multiple copies of Microsoft Test Manager 2013 at the same time
 =====================================================================
-Author: Alan Mills
-Date: 14 July 2015 16:41
-Tags: Windows7, VS2013, MTM
+**Author:** Alan Mills  
+**Date:** [14 July 2015 16:41](/blog/history/2015-07.md)  
+**Tags:** [Windows 7](/blog/categories/windows-7.md), [Visual Studio 2013](/blog/categories/visual-studio-2013.md), [Microsoft Test Manager 2013](/blog/categories/microsoft-test-manager-2013.md)
+
 
 [Microsoft Test Manager](https://msdn.microsoft.com/en-us/library/jj645157.aspx) is a great tool for planning and execute test on Windows however, by default you can only have a single instance running which can make certain tasks more difficult.
 

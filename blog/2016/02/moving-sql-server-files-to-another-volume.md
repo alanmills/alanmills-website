@@ -1,8 +1,8 @@
 Moving SQL Server files to another volume
 =========================================
-Author: Alan Mills
-Date: 24 February 2016 15:25
-Tags: SQL Server, T-SQL
+**Author:** Alan Mills  
+**Date:** [24 February 2016 15:25](/blog/history/2016-02.md)  
+**Tags:** [SQL Server](/blog/categories/sql-server.md)
 
 If you install SQL Server using the defaults then all of your databases will be installed with SQL Server on the primary volume.  This is okay if you are lightly using SQL Server, performance is not a consideration and your primary volume is large.  If any of these is not the case then this is a bad plan and eventually you are going to need to sort things out.
 

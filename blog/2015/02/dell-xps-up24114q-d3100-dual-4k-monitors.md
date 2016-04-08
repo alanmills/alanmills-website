@@ -1,8 +1,8 @@
 Using the D3100 Docking Station for Dual UP2414Q 4K Monitor greatness on a Dell XPS 15
 ======================================================================================
-Author: Alan Mills
-Date: 23 February 2015 01:23
-Tags: Dell XPS 15, Dell D3100, Dell UP2414Q, Windows 7, HDPI
+**Author:** Alan Mills  
+**Date:** [23 February 2015 01:23](/blog/history/2015-02.md)  
+**Tags:** [Dell XPS 15](/blog/categories/dell-xps-15.md), [Dell D3100](/blog/categories/dell-d3100.md), [Dell UP2414Q](/blog/categories/dell-up2414q.md), [Windows 7](/blog/categories/windows-7.md), [HDPI](/blog/categories/hdpi.md)
 
 I am loving my [Dell XPS 15](http://amzn.to/1MOQnj9) with it's built-in HDPI display.  I am not loving Windows 7 support for mixed Standard and High DPI monitor support (read, no usable support).
 

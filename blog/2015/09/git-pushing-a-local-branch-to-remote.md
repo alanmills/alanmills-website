@@ -1,8 +1,9 @@
 Git pushing a local branch to remote
 ====================================
-Author: Alan Mills
-Date: 28 September 2015 09:56
-Tags: Git
+**Author:** Alan Mills  
+**Date:** [28 September 2015 09:56](/blog/history/2015-09.md)  
+**Tags:** [Git](/blog/categories/git.md)
+
 
 ``` bash
 $ git checkout -b feature_branch_name
