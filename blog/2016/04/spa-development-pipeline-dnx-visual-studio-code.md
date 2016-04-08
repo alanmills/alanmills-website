@@ -2,7 +2,8 @@ SPA Development Pipeline using .NET Next and Visual Studio Code
 =================================================
 **Author:** Alan Mills  
 **Date:** [07 April 2016 16:17](/blog/history/2016-04.md)  
-**Tags:** [Windows 10](/blog/categories/windows-10.md), [Visual Studio Team Services](/blog/categories/visual-studio-team-services.md), [Azure](/blog/categories/azure.md), [Visual Studio Code](/blog/categories/visual-studio-2015)
+**Tags:** [Windows 10](/blog/categories/windows-10.md), [Visual Studio Team Services](/blog/categories/visual-studio-team-services.md), [Azure](/blog/categories/azure.md), [Visual Studio Code](/blog/categories/visual-studio-2015)   
+**Status**: Draft
 
 In the blog post [SPA Development Pipeline using Visual Studio 2015](blog/2016/04/spa-development-pipeline-visual-studio-2015.md), outlined setting up a continuous delivery pipeline for AngularJS development on the Mac and Windows.  In this blog post, I am going to outline translating that pipeline using Visual Studio Code, Vagrant and Ubuntu.
 

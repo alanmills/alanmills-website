@@ -2,7 +2,8 @@ Using Atom editor shortcuts to format Markdown named anchors links
 ==================================================================
 **Author**: Alan Mills  
 **Date**: [07 April 2016 16:47](/blog/history/2016-04.md)
-**Tags**: [Atom](/blog/categories/atom.md), [Markdown](/blog/categories/markdown.md)
+**Tags**: [Atom](/blog/categories/atom.md), [Markdown](/blog/categories/markdown.md)  
+**Status**: Draft
 
 I write all of my blog posts with Atom in the Markdown format and often I will have a summary including anchor links to other parts of the page.  I was doing a lot of extra keyboard work until I discovered some Atom keyboardfu.
 

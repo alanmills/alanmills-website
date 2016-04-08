@@ -2,7 +2,8 @@ Building alanmills.info
 =======================
 **Author**: Alan Mills  
 **Date**: [04 May 2014](/blog/history/2014-05.md)   
-**Tags**: [Blog](/blog/categories/blog.md), [alanmills.info](/blog/categories/alanmills-info.md)
+**Tags**: [Blog](/blog/categories/blog.md), [alanmills.info](/blog/categories/alanmills-info.md)  
+**Status**: Draft
 
 I have decided to build my own website from scratch instead of making use of any popular blog services. Now you can call me crazy for doing this and normally I would agree however, like lots of developers I am writing this for my own learning tool.  As I progress into the world of [MAMP](http://en.wikipedia.org/wiki/MAMP).  Once I have gone through this exercise I will probably migrate to a popular open source or commercial solution as maintaining my own solution is probably a poor long-term solution.
 

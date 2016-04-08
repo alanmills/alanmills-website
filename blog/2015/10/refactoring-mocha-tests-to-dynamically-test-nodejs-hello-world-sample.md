@@ -2,8 +2,8 @@ Refactoring Mocha tests to dynamically test Node.js Hello World sample
 ======================================================================
 **Author:** Alan Mills  
 **Date:** [5 October 2015 19:17](/blog/history/2015-10.md)  
-**Tags:** [Test Driven Development](/blog/categories/test-driven-development.md), [Node.js](/blog/categories/node-js.md), [Chai Assertion Library](/blog/categories/chai-assertion-library.md), [Sinon.JS](/blog/categories/sinon-js.md), [Mocha](/blog/categories/mocha.md)
-
+**Tags:** [Test Driven Development](/blog/categories/test-driven-development.md), [Node.js](/blog/categories/node-js.md), [Chai Assertion Library](/blog/categories/chai-assertion-library.md), [Sinon.JS](/blog/categories/sinon-js.md), [Mocha](/blog/categories/mocha.md)  
+**Status**: Draft
 
 Following the [Unit testing the standard Node.js Hello World sample](./unit-testing-nodejs-hello-world.md).  This post covers refactoring the unit tests written for the Node.js Hello World sample to allows for the simultaneously testing of the simple hello world sample and an enhanced http server.
 

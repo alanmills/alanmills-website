@@ -2,7 +2,7 @@ Angular Attack, the 48 hour online hackathon 14-15 May 2016
 ===========================================================
 **Author**: Alan Mills  
 **Date**: [08 April 2016 13:20](/blog/history/2016-04.md)
-**Tags**:
+**Tags**:   
 **Status**: Draft
 
 * [Angular Attack](https://www.angularattack.com)

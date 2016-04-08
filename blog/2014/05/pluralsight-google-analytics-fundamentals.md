@@ -2,7 +2,8 @@ Pluralsight: Google Analytics Fundamentals - review
 ===================================================
 **Author**: Alan Mills  
 **Date**: [06 May 2014](/blog/history/2014-05.md)   
-**Tags**: [Pluralsight](/blog/categories/pluralsight.md), [Google Analytics](/blog/categories/google-analytics.md)
+**Tags**: [Pluralsight](/blog/categories/pluralsight.md), [Google Analytics](/blog/categories/google-analytics.md)  
+**Status**: Draft
 
 As someone starting to build my own blog, I am very interested to understand how popular and effective how each blog post is and the blog as a whole.
 

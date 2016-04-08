@@ -2,7 +2,8 @@ Use PsGet to setup PoshGit - a PowerShell CLI for Git
 =====================================================
 **Author:** Alan Mills  
 **Date:** [29 January 2016 16:47](/blog/history/2016-01.md)  
-**Tags:** [PowerShell](/blog/categories/powershell.md), [Windows 10](/blog/categories/windows-10.md), [Git for Windows](/blog/categories/git-for-windows.md)
+**Tags:** [PowerShell](/blog/categories/powershell.md), [Windows 10](/blog/categories/windows-10.md), [Git for Windows](/blog/categories/git-for-windows.md)  
+**Status**: Draft
 
 Git is not a natural bedfellow on Windows however, with some setup and configuration working with Git on Windows is almost as good as on the Mac/Linux.
 

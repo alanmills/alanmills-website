@@ -2,7 +2,8 @@ Activating an MSDN version of Windows 10 Enterprise
 ===================================================
 **Author:** Alan Mills  
 **Date:** [31 January 2016 22:32](/blog/history/2016-01.md)  
-**Tags:** [Windows 10](/blog/categories/windows-10.md)
+**Tags:** [Windows 10](/blog/categories/windows-10.md)  
+**Status**: Draft
 
 I have been running a copy of Windows 10 that I downloaded from MSDN for a while and while running in Coherence mode, the overlay about having an un-activated version of Windows 10 was getting annoying.
 

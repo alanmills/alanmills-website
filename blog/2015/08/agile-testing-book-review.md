@@ -2,7 +2,8 @@ Review of book: Agile Testing: A Practical Guid for Testers and Agile Teams
 ===========================================================================
 **Author:** Alan Mills  
 **Date:** [27 August 2015 11:56](/blog/history/2015-08.md)  
-**Tags:** [Agile](/blog/categories/agile.md), [Testing](/blog/categories/testing.md)
+**Tags:** [Agile](/blog/categories/agile.md), [Testing](/blog/categories/testing.md)  
+**Status**: Draft
 
 Written by testers for testers.
 Strong alignment between solution/enterprise architecture concerns and testers.

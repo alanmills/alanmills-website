@@ -2,4 +2,5 @@ Review of Pluralsight course - Introduction to Versioning Environments With Vagr
 ===================================================================================
 **Author:** Alan Mills  
 **Date:** [05 April 2016 15:40](/blog/history/2016-04.md)  
-**Tags:** [Vagrant](/blog/categories/vagrant.md), [OS X El Capitan](/blog/categories/osx-10-10.md), [Parallels](/blog/categories/parallels.md)
+**Tags:** [Vagrant](/blog/categories/vagrant.md), [OS X El Capitan](/blog/categories/osx-10-10.md), [Parallels](/blog/categories/parallels.md)  
+**Status**: Draft

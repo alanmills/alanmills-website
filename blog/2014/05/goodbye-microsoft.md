@@ -2,7 +2,8 @@ Goodbye Microsoft, hello MAMP
 =============================
 **Author**: Alan Mills  
 **Date**: [03 May 2014](/blog/history/2014-05.md)   
-**Tags**: [Microsoft](/blog/categories/microsoft.md), [MAMP](/blog/categories/mamp.md)
+**Tags**: [Microsoft](/blog/categories/microsoft.md), [MAMP](/blog/categories/mamp.md)  
+**Status**: Draft
 
 After 22 years using and developing personal and professional solutions on the Microsoft Windows stack. In the future I am only going to use the MAMP/LAMP stack for my personal projects as this is the clear winner for current and future technology start-ups.
 

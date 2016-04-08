@@ -2,7 +2,8 @@ Mocking JavaScript Getter and Setters with Sinon.JS
 ===================================================
 **Author:** Alan Mills  
 **Date:** [27 August 2015 11:56](/blog/history/2015-08.md)  
-**Tags:** [Testing](/blog/categories/testing.md), [Sinon.JS](/blog/categories/sinon.md), [JavaScript](/blog/categories/javascript.md)
+**Tags:** [Testing](/blog/categories/testing.md), [Sinon.JS](/blog/categories/sinon.md), [JavaScript](/blog/categories/javascript.md)   
+**Status**: Draft
 
 Need to work out how to great an extension for Sinon to wrap around JavaScript getters and setters so that you can assert that they have been set/got, etc.
 

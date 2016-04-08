@@ -2,7 +2,8 @@ Predicting software problems using analytics
 ============================================
 **Author:** Alan Mills  
 **Date:** [4 September 2015 10:50](/blog/history/2015-09.md)  
-**Tags:** [Software Development](/blog/categories/software-development.md), [Analytics](/blog/categories/analytics.md), [Code Metrics](/blog/categories/code-metrics.md)
+**Tags:** [Software Development](/blog/categories/software-development.md), [Analytics](/blog/categories/analytics.md), [Code Metrics](/blog/categories/code-metrics.md)  
+**Status**: Draft
 
 Idea is that you use available software development metrics to predict software problems and therefore pre-emptively fix problems before your customers find them.
 

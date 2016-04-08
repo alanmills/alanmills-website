@@ -2,7 +2,8 @@ View the contents of a file in a zip file from the Terminal
 ===========================================================
 **Author:** Alan Mills  
 **Date:** [9 July 2015 23:36](/blog/history/2015-07.md)  
-**Tags:** [OS X Mavericks](/blog/categories/osx-10-09.md), [bash](/blog/categories/bash.md), [zip](/blog/categories/zip.md), [Pluralsight](/blog/categories/pluralsight.md)
+**Tags:** [OS X Mavericks](/blog/categories/osx-10-09.md), [bash](/blog/categories/bash.md), [zip](/blog/categories/zip.md), [Pluralsight](/blog/categories/pluralsight.md)   
+**Status**: Draft
 
 Often I am working through [Pluralsight training courses](http://www.pluralsight.com) and I need to view a source file from the course exercise files.
 
