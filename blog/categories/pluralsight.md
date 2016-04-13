@@ -3,6 +3,7 @@ Pluralsight
 
 2015
 ----
+* [Review of Pluralsight course: Using The Chrome Developer Tools](blog/2015/09/pluralsight-using-the-chrome-developer-tools.md)
 * [Review of Pluralsight course: JavaScript the Good Parts](blog/2015/08/javascript-good-parts.md)
 * [View the contents of a file in a zip file from the Terminal](blog/2015/07/bash-view-file-in-zip.md)
 

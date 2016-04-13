@@ -5,4 +5,4 @@ Safari 9 Responsive Web Design view is great
 **Tags:** [Safari 9](/blog/categories/safari-9.md), [Responsive Web Design](/blog/categories/responsive-web-design.md)  
 **Status**: Draft
 
-New ⌥ ⌘ R
+New <kbd>⌥ ⌘ R</kbd>

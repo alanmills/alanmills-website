@@ -49,18 +49,18 @@ Contents
 Using Atom editor shortcuts to format the name anchor links
 -----------------------------------------------------------
 Now for each item in the table of contents
-* copy the heading text - place the cursor in the square parentheses and press `^⌘M`, `⌘C`,
-* paste the text in to the parentheses `⌘V`
-* Select the text in the parentheses `^⌘M`
-* While the text is still selected, convert to lower case `⌘K ⌘L`
+* copy the heading text - place the cursor in the square parentheses and press <kbd>^⌘M</kbd>, <kbd>⌘C</kbd>,
+* paste the text in to the parentheses <kbd>⌘V</kbd>
+* Select the text in the parentheses <kbd>^⌘M</kbd>
+* While the text is still selected, convert to lower case <kbd>⌘K ⌘L</kbd>
 
 ```Markdown
 * [This is the first item](this is the first item)
 ```
 
 * Now select the first space within the parentheses
-* Press `⌘D` to select the next space in the file
-* Repeat pressing `⌘D` until you have selected all the spaces within the parentheses
+* Press <kbd>⌘D</kbd> to select the next space in the file
+* Repeat pressing <kbd>⌘D</kbd> until you have selected all the spaces within the parentheses
 * Now type the character -
 * You're done 😀
 

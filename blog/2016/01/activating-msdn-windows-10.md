@@ -14,10 +14,10 @@ The solution to this problem is to:
 1. Go to the [MSDN subscription website, My Product Keys](https://msdn.microsoft.com/en-us/subscriptions/keys/)
 2. Search for the Windows 10 Enterprise product keys
 3. If you have not claimed a key, press the **Get a Key** button
-4. Copy (ctrl+c) the 20 character product key
+4. Copy (<kbd>ctrl</kbd>+<kbd>c</kbd>) the 20 character product key
 **Activate Windows 10 Enterprise with the product key**
 5. Open the Command Prompt in Administrator mode
 6. Run the command SLUI 3
-7. An overlay will be presented, paste (ctrl+v) the product key
+7. An overlay will be presented, paste (<kbd>ctrl</kbd>+<kbd>v</kbd>) the product key
 
 Windows 10 is now activated.

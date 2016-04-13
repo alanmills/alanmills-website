@@ -1,6 +1,11 @@
 Git
 ===
 
+2016
+----
+* [Delete a Git branch locally and remotely](blog/2016/04/delete-a-git-branch-locally-and-remotely.md)
+* [Moving a Git repo to a new remote](/blog/2016/04/moving-a-git-repo-to-a-new-remote.md)
+
 2015
 ----
 * [Git pulling a remote branch to local](blog/2015/11/git-pulling-remote-to-a-local-branch.md)
