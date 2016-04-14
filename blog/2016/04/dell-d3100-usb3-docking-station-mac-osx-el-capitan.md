@@ -2,7 +2,7 @@ Using the Dell D3100 USB 3 Docking Station with Mac OS X El Capitan
 ===================================================================
 **Author:** Alan Mills  
 **Date:** [05 April 2016 01:54](/blog/history/2016-04.md)  
-**Tags:** [OS X El Capitan](/blog/categories/osx-10-10.md), [Dell D3100](/blog/categories/dell-d3100.md)  
+**Tags:** [OS X El Capitan](/blog/categories/osx-10-11.md), [Dell D3100](/blog/categories/dell-d3100.md)  
 **Status**: Draft
 
 Prior to moving to the [Apple Retina MacBook Pro 15](http://amzn.to/1MOQICz), I was running a [Dell XPS, Windows 7 dual/tripple 4K setup](../../2015/02/dell-xps-up24114q-d3100-dual-4k-monitors.md).

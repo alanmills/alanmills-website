@@ -2,7 +2,7 @@ How to convert images to a pdf file from the Mac Bash terminal
 ==============================================================
 **Author:** Alan Mills  
 **Date:** [02 February 2016 22:31](/blog/history/2016-02.md)  
-**Tags:** [OS X](/blog/categories/osx.md), [bash](/blog/categories/bash.md), [ImageMagick](/blog/categories/imagemagick.md), [Homebrew](/blog/categories/homebrew.md), [Portable Document Format](/blog/categories/portable-document-format.md)   
+**Tags:** [OS X El Capitan](/blog/categories/osx-10-11.md), [bash](/blog/categories/bash.md), [ImageMagick](/blog/categories/imagemagick.md), [Homebrew](/blog/categories/homebrew.md), [Portable Document Format](/blog/categories/portable-document-format.md)   
 **Status**: Draft
 
 Running my own limited companies I deal with a lot of forms that I have to print, sign, scan and email, as well as letters that I need to scan and store.

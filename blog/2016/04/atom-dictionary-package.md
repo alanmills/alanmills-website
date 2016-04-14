@@ -2,7 +2,7 @@ Atom dictionary package
 =======================
 **Author:** Alan Mills  
 **Date:** [11 April 2016 22:50](/blog/history/2016-04.md)  
-**Tags:** [Atom](/blog/categories/atom.md), [OS X El Capitan](/blog/categories/osx-10-10.md)   
+**Tags:** [Atom](/blog/categories/atom.md), [OS X El Capitan](/blog/categories/osx-10-11.md)   
 **Status**: Publish
 
 

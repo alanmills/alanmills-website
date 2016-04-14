@@ -1,5 +1,5 @@
 SPA Development Pipeline using .NET Next and Visual Studio Code
-=================================================
+===============================================================
 **Author:** Alan Mills  
 **Date:** [07 April 2016 16:17](/blog/history/2016-04.md)  
 **Tags:** [Windows 10](/blog/categories/windows-10.md), [Visual Studio Team Services](/blog/categories/visual-studio-team-services.md), [Azure](/blog/categories/azure.md), [Visual Studio Code](/blog/categories/visual-studio-2015)   

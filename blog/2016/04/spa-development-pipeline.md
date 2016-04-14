@@ -2,7 +2,7 @@ AngularJS SPA Development Pipeline
 ==================================
 **Author:** Alan Mills  
 **Date:** [06 April 2016 12:41](/blog/history/2016-04.md)  
-**Tags:** [OS X El Capitan](/blog/categories/osx-10-10.md), [AngularJS](/blog/categories/angularjs.md), [Babel](/blog/categories/babel.md), [Vagrant](/blog/categories/vagrant.md), [Security](/blog/categories/security.md), [Grunt](/blog/categories/grunt.md)  
+**Tags:** [OS X El Capitan](/blog/categories/osx-10-11.md), [AngularJS](/blog/categories/angularjs.md), [Babel](/blog/categories/babel.md), [Vagrant](/blog/categories/vagrant.md), [Security](/blog/categories/security.md), [Grunt](/blog/categories/grunt.md)  
 **Status**: Draft
 
 Other courses
