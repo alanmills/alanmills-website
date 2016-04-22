@@ -1,6 +1,10 @@
 Mocha
 =====
 
+2016
+----
+* [Using Visual Studio Team System, TFS Build 2015 to publish Mocha test results](blog/2016/04/using-visual-studio-team-system-tfs-build-2015-to-publish-mocha-test-results.md)
+
 2015
 ----
 * [Refactoring Mocha tests to dynamically test Node.js Hello World sample](blog/2015/10/refactoring-mocha-tests-to-dynamically-test-nodejs-hello-world-sample.md)

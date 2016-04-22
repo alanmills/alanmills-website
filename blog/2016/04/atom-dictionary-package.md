@@ -10,7 +10,7 @@ I use Atom to write my blog posts, help documentation and other developer-level 
 
 Built into OS X is the Dictionary application, a really useful tool for quickly look up words and their definitions.
 
-While looking for a way to improve my writing experiend in Atom, I came across the [Atom dictionary package](https://atom.io/packages/dictionary) which allows you to select a word in the Atom text editor and use the keyboard shortcut <kbd>⌃⌘K</kbd> to launch the [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software).
+While looking for a way to improve my writing experienced in Atom, I came across the [Atom dictionary package](https://atom.io/packages/dictionary) which allows you to select a word in the Atom text editor and use the keyboard shortcut <kbd>⌃⌘K</kbd> to launch the [Dictionary](https://en.wikipedia.org/wiki/Dictionary_(software).
 
 ``` bash
 $ apm install dictionary

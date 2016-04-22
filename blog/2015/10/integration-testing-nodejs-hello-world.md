@@ -5,10 +5,6 @@ Integration testing the standard Node.js Hello World sample
 **Tags:** [Integration testing](/blog/categories/integration-testing.md), [Test Driven Development](/blog/categories/test-driven-development.md), [Node.js](/blog/categories/node-js.md), [Mocha](/blog/categories/mocha.md)  
 **Status**: Draft
 
-Author: Alan Mills
-Date: 3 October 2015 18:29
-Tags: integration testing, TDD, nodejs, mocha
-
 Following the [Unit testing the standard Node.js Hello World sample](./unit-testing-nodejs-hello-world.md).  This post is focused on integration testing the Node.js Hello World sample
 
 [The standard Node.js "hello world" example](https://nodejs.org/en/about/)
