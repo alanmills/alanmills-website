@@ -3,6 +3,7 @@ Git
 
 2016
 ----
+* [Using Git to view the change history of a file](blog/2016/04/using-git-to-view-the-change-history-of-a-file.md)
 * [What is the Git remote URL?](/blog/2016/04/what-is-the-git-remote-url.md)
 * [Delete a Git tag locally and remotely](/blog/2016/04/delete-a-git-tag-locally-and-remotely.md)
 * [Delete a Git branch locally and remotely](/blog/2016/04/delete-a-git-branch-locally-and-remotely.md)
