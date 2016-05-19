@@ -1,5 +1,10 @@
 Pluralsight
 ===========
+2016
+----
+* [Review of Pluralsight course: Building and Securing a RESTful API for Multiple Clients in ASP.NET (2015/03/05)](blog/2016/05/pluralsight-building-and-securing-a-restful-api-for-multiple-clients-in-aspdotnet-2015-03-05.md)
+* [Review of Pluralsight course: Getting Started with Entity Framework 6 (2015/11/16)](blog/2016/05/pluralsight-getting-started-with-entity-framework-6-2015-11-16.md)
+* [Review of Pluralsight course: ASP.NET MVC 4 Fundamentals (2012/07/23)](blog/2016/05/pluralsight-aspdotnet-mvc-4-fundamentals-2012-07-23.md)
 
 2015
 ----
