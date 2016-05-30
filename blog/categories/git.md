@@ -3,6 +3,7 @@ Git
 
 2016
 ----
+* [Viewing the previous Git commit](blog/2016/05/viewing-the-previous-git-commit.md)
 * [Cleaning up master git commits with a remote feature branch](blog/2016/05/cleaning-up-master-git-commits-with-a-remote-feature-branch.md)
 * [Cleaning up master git commits to a local feature branch](blog/2016/05/cleaning-up-master-git-commits-to-a-local-feature-branch.md)
 * [Using Git to view the change history of a file](blog/2016/04/using-git-to-view-the-change-history-of-a-file.md)
