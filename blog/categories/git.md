@@ -3,6 +3,7 @@ Git
 
 2016
 ----
+* [Updating local and remote Git tags](blog/2016/06/updating-a-local-and-remote-annotated-git-tag.md)
 * [Viewing the previous Git commit](blog/2016/05/viewing-the-previous-git-commit.md)
 * [Cleaning up master git commits with a remote feature branch](blog/2016/05/cleaning-up-master-git-commits-with-a-remote-feature-branch.md)
 * [Cleaning up master git commits to a local feature branch](blog/2016/05/cleaning-up-master-git-commits-to-a-local-feature-branch.md)
