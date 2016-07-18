@@ -64,7 +64,8 @@ I appreciate that the Windows chapter is in this course and does provide the bas
 * there are admin tools installed but not configured to access the rest of the course environment
 * No users are setup to use the environment and instead everything is done through the default Vagrant account
 
-### Final thoughts
+Final thoughts
+--------------
 As a complete beginner to Puppet, I feel much more comfortable with what Puppet is and how to use it and therefore I would recommend this course if you are new to Puppet too.
 
 However I would also recommend that while following the course you too put in the additional effort automating the provisioning of the whole environment (including the Puppet Server) by running `vagrant up`.  With the knowledge that I have of Vagrant and Puppet, I was not able to get this to be a one step process; with manual and broken (automated) provisioning steps.  Therefore I will need to seek out more advanced material to fill-in the gaps left by this course.
