@@ -2,6 +2,8 @@ Pluralsight
 ===========
 2016
 ----
+* [Review of Pluralsight course: C# Fundamentals with Visual Studio 2015 (2015/09/25)](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md)
+* [Review of Pluralsight C# learning path](blog/2016/07/pluralsight-c-sharp-learning-path.md)
 * [Review of Pluralsight course: Introduction to Versioning Environments With Vagrant (2014/10/02)](blog/2016/07/pluralsight-introduction-to-versioning-environments-with-vagrant-2014-10-02.md)
 * [Review of Pluralsight course: Puppet Fundamentals for System Administrators (2015/02/12)](blog/2016/07/pluralsight-puppet-fundamentals-for-system-administrators-2015-02-12.md)
 * [Review of Pluralsight course: Building and Securing a RESTful API for Multiple Clients in ASP.NET (2015/03/05)](blog/2016/05/pluralsight-building-and-securing-a-restful-api-for-multiple-clients-in-aspdotnet-2015-03-05.md)
