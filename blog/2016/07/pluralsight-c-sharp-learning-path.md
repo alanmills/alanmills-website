@@ -17,7 +17,7 @@ The learning path is structured into skills levels, with multiple courses per le
 
 * [Beginner](Beginner)
   * C# Fundamentals with Visual Studio 2015 - [review](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md)
-  * C# Equality and Comparisons
+  * C# Equality and Comparisons - [review](blog/2016/07/pluralsight-c-sharp-equality-and-comparisons-2014-09-10.md)
   * C# Collections Fundamentals
 * Intermediate
   * C# Interfaces
