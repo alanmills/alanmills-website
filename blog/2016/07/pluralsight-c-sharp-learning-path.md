@@ -20,7 +20,7 @@ The learning path is structured into skills levels, with multiple courses per le
   * C# Fundamentals with Visual Studio 2015 - [review](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md)
   * C# Equality and Comparisons - [review](blog/2016/07/pluralsight-c-sharp-equality-and-comparisons-2014-09-10.md)
   * C# Collections Fundamentals - [review](blog/2016/07/pluralsight-c-sharp-collections-fundamentals-2014-04-08.md)
-* Intermediate
+* [Intermediate](intermediate)
   * C# Interfaces
   * C# Best Practices: Collections and Generics
   * C# Events, Delegates and Lambdas
@@ -28,7 +28,7 @@ The learning path is structured into skills levels, with multiple courses per le
   * Practical LINQ
   * Object-Oriented Programming Fundamentals in C#
   * Defensive Coding in C#
-* Advanced
+* [Advanced](advanced)
   * Getting Started with Asynchronous Programming in .NET
   * C# Concurrent Collections
   * C# Tips and Traps
@@ -38,11 +38,11 @@ The learning path is structured into skills levels, with multiple courses per le
 
 Beginner
 --------
-After completing the beginner courses, to a total beginner to software development I would not recommend the learning path.  The first course [C# Fundamentals with Visual Studio 2015](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md) is an okay starting point however, for me is missing the construction of an application.
+After completing the beginner courses, to a total beginner to software development I would not recommend the learning path.  The first course [C# Fundamentals with Visual Studio 2015](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md) is an okay starting point however, for me it is missing the construction of an application.
 
 Following the [C# Fundamentals with Visual Studio 2015](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md), the next two courses are very theoretical and felt like language documentation in video form.  
 
-For an experienced developer coming to C# then these will help you get up to speed with some of the tools and semantics however, I think a single course focusing on a transition journey would be better.
+For an experienced developer coming to C# then these will help you get up to speed with some of the tools and semantics however, I think a single course focusing on a transition journey would be better.  I believe this is what the [Android for .NET Developers](https://app.pluralsight.com/library/courses/android-dotnet-developers-getting-started) courses are aiming to achieve however, going from C# to Android development.
 
 There is a range of courses that I think look interesting that maybe better for the new developer:
 * [Become a Full-stack .NET Developer](https://app.pluralsight.com/library/courses/full-stack-dot-net-developer-fundamentals)
