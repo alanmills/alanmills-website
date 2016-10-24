@@ -21,7 +21,7 @@ The learning path is structured into skills levels, with multiple courses per le
   * C# Equality and Comparisons - [review](blog/2016/07/pluralsight-c-sharp-equality-and-comparisons-2014-09-10.md)
   * C# Collections Fundamentals - [review](blog/2016/07/pluralsight-c-sharp-collections-fundamentals-2014-04-08.md)
 * [Intermediate](intermediate)
-  * C# Interfaces
+  * C# Interfaces - [review](blog/2016/07/pluralsight-c-sharp-interfaces-2013-07-02.md)
   * C# Best Practices: Collections and Generics
   * C# Events, Delegates and Lambdas
   * C# Extension Methods
