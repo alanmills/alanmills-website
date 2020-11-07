@@ -12,4 +12,5 @@ $ git remote rm origin
 $ git remote add origin https://New_Remote_Repository_Location
 $ git remote -v
 $ git push -u origin master
+$ git pull origin master
 ```

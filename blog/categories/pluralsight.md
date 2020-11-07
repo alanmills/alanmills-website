@@ -2,6 +2,9 @@ Pluralsight
 ===========
 2016
 ----
+* [Learning to develop on AWS using Pluralsight courses](blog/2016/12/learning-to-develop-on-aws-using-pluralsight-courses.md)
+* [Review of Pluralsight course: AWS Certified DevOps Engineer: Continuous Delivery and Automation (2016/04/28) ](blog/2016/12/pluralsight-aws-certified-devops-engineer-continuous-delivery-and-automation-2016-04-28.md)
+* [Review of Pluralsight learning path: AWS Certified DevOps Engineer](blog/2016/10/pluralsight-learning-path-aws-certified-devops-engineer.md)
 * [Review of Pluralsight course: C# Collections Fundamentals (2014/04/08)](blog/2016/07/pluralsight-c-sharp-collections-fundamentals-2014-04-08.md)
 * [Review of Pluralsight course: C# Equality and Comparisons (2014/09/10)](blog/2016/07/pluralsight-c-sharp-equality-and-comparisons-2014-09-10.md)
 * [Review of Pluralsight course: C# Fundamentals with Visual Studio 2015 (2015/09/25)](blog/2016/07/pluralsight-c-sharp-fundamentals-with-visual-studio-2015-2015-09-25.md)
