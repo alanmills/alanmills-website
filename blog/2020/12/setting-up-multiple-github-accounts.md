@@ -16,12 +16,19 @@ ssh-keygen -t ed25519 -C "alan@company1.com" -f ~/.ssh/id_github_company1_ed2551
 
 ```bash
 ~/.ssh/config
+
+AddKeysToAgent yes
+IgnoreUnknown UseKeychain
+UseKeychain yes
+
+Host *
+  IdentityFile ~/.ssh/id_rsa
+
 Host github_company1
   Host github.com
   IdentityFile ~/.ssh/id_github_comany1_ed25519
   User alan@company1.com
   IdentityOnly yes
-  UseKeychain yes
 ```
 
 ## Upload SSH Key to GitHub
@@ -56,7 +63,7 @@ git clone --config user.name="Alan Mills" --config user.email="alan@company1.com
 
 ```bash
 ~/.gitconfig
-[includeIf "gitdir:~/code/github/company1/"]
+[includeIf "gitdir:**/github/company1/**"]
   path=~/.git/github-company1.conf
 ```
 
